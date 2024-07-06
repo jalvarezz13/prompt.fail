@@ -1,0 +1,25 @@
+{
+  "conventionalCommits.scopes": [
+    "auth",
+    "components",
+    "context",
+    "core",
+    "docs",
+    "hooks",
+    "layout",
+    "models",
+    "pages",
+    "settings",
+    "ui",
+    "utils",
+  ],
+  // Force LF line endings
+  "files.eol": "\n",
+  // Indentation (using 2 spaces)
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  // Prettier settings
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.printWidth": 140,
+  "prettier.semi": false,
+}

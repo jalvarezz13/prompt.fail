@@ -1,0 +1,218 @@
+[
+  {
+    "id": "claude-3-haiku",
+    "icon": "",
+    "name": "Claude 3 Haiku",
+    "organization": "Anthropic",
+    "organization_icon": "/claude-ai.svg",
+    "license": "Proprietary"
+  },
+  {
+    "id": "claude-3-opus",
+    "icon": "",
+    "name": "Claude 3 Opus",
+    "organization": "Anthropic",
+    "organization_icon": "/claude-ai.svg",
+    "license": "Proprietary"
+  },
+  {
+    "id": "claude-3-sonnet",
+    "icon": "",
+    "name": "Claude 3 Sonnet",
+    "organization": "Anthropic",
+    "organization_icon": "/claude-ai.svg",
+    "license": "Proprietary"
+  },
+  {
+    "id": "gemini",
+    "icon": "/gemini.svg",
+    "name": "Gemini",
+    "organization": "Google",
+    "organization_icon": "/google.svg",
+    "license": "Proprietary"
+  },
+  {
+    "id": "gemini-advanced",
+    "icon": "/gemini.svg",
+    "name": "Gemini Advanced",
+    "organization": "Google",
+    "organization_icon": "/google.svg",
+    "license": "Proprietary"
+  },
+  {
+    "id": "gemma-2b",
+    "icon": "/gemma.svg",
+    "name": "Gemma 2B",
+    "organization": "Google",
+    "organization_icon": "/google.svg",
+    "license": "Gemma license"
+  },
+  {
+    "id": "gemma-7b",
+    "icon": "/gemma.svg",
+    "name": "Gemma 7B",
+    "organization": "Google",
+    "organization_icon": "/google.svg",
+    "license": "Gemma license"
+  },
+  {
+    "id": "gpt-3.5-turbo",
+    "icon": "",
+    "name": "GPT-3.5 Turbo",
+    "organization": "OpenAI",
+    "organization_icon": "/open-ai.svg",
+    "license": "Proprietary"
+  },
+  {
+    "id": "gpt-4",
+    "icon": "",
+    "name": "GPT-4",
+    "organization": "OpenAI",
+    "organization_icon": "/open-ai.svg",
+    "license": "Proprietary"
+  },
+  {
+    "id": "gpt-4-turbo",
+    "icon": "",
+    "name": "GPT-4 Turbo",
+    "organization": "OpenAI",
+    "organization_icon": "/open-ai.svg",
+    "license": "Proprietary"
+  },
+  {
+    "id": "gpt-4o",
+    "icon": "",
+    "name": "GPT-4o",
+    "organization": "OpenAI",
+    "organization_icon": "/open-ai.svg",
+    "license": "Proprietary"
+  },
+  {
+    "id": "grok-1",
+    "icon": "/grok.svg",
+    "name": "Grok-1",
+    "organization": "xAI",
+    "organization_icon": "/xai.svg",
+    "license": "Apache 2.0"
+  },
+  {
+    "id": "llama2-13b",
+    "icon": "",
+    "name": "Llama 2 13B",
+    "organization": "Meta",
+    "organization_icon": "/meta.svg",
+    "license": "Llama 2 Community"
+  },
+  {
+    "id": "llama2-70b",
+    "icon": "",
+    "name": "Llama 2 70B",
+    "organization": "Meta",
+    "organization_icon": "/meta.svg",
+    "license": "Llama 2 Community"
+  },
+  {
+    "id": "llama2-7b",
+    "icon": "",
+    "name": "Llama 2 7B",
+    "organization": "Meta",
+    "organization_icon": "/meta.svg",
+    "license": "Llama 2 Community"
+  },
+  {
+    "id": "llama3-70b",
+    "icon": "",
+    "name": "Llama 3 70B",
+    "organization": "Meta",
+    "organization_icon": "/meta.svg",
+    "license": "Llama 3 Community"
+  },
+  {
+    "id": "llama3-8b",
+    "icon": "",
+    "name": "Llama 3 8B",
+    "organization": "Meta",
+    "organization_icon": "/meta.svg",
+    "license": "Llama 3 Community"
+  },
+  {
+    "id": "mistral-7b",
+    "icon": "",
+    "name": "Mistral 7B",
+    "organization": "Mistral AI",
+    "organization_icon": "/mistral-ai.svg",
+    "license": "Apache 2.0"
+  },
+  {
+    "id": "mixtral-8x22b",
+    "icon": "",
+    "name": "Mixtral 8x22B",
+    "organization": "Mistral AI",
+    "organization_icon": "/mistral-ai.svg",
+    "license": "Apache 2.0"
+  },
+  {
+    "id": "mixtral-8x7b",
+    "icon": "",
+    "name": "Mixtral 8x7B",
+    "organization": "Mistral AI",
+    "organization_icon": "/mistral-ai.svg",
+    "license": "Apache 2.0"
+  },
+  {
+    "id": "phi2-3b",
+    "icon": "",
+    "name": "Phi-2 3B",
+    "organization": "Microsoft",
+    "organization_icon": "/microsoft.svg",
+    "license": "MIT"
+  },
+  {
+    "id": "phi3-14b",
+    "icon": "",
+    "name": "Phi-3 14B",
+    "organization": "Microsoft",
+    "organization_icon": "/microsoft.svg",
+    "license": "MIT"
+  },
+  {
+    "id": "phi3-3b",
+    "icon": "",
+    "name": "Phi-3 3B",
+    "organization": "Microsoft",
+    "organization_icon": "/microsoft.svg",
+    "license": "MIT"
+  },
+  {
+    "id": "qwen2-0.5b",
+    "icon": "/qwen.svg",
+    "name": "Qwen2 0.5B",
+    "organization": "Alibaba",
+    "organization_icon": "",
+    "license": "Tongyi Qianwen"
+  },
+  {
+    "id": "qwen2-1.5b",
+    "icon": "/qwen.svg",
+    "name": "Qwen2 1.5B",
+    "organization": "Alibaba",
+    "organization_icon": "",
+    "license": "Tongyi Qianwen"
+  },
+  {
+    "id": "qwen2-72b",
+    "icon": "/qwen.svg",
+    "name": "Qwen2 72B",
+    "organization": "Alibaba",
+    "organization_icon": "",
+    "license": "Tongyi Qianwen"
+  },
+  {
+    "id": "qwen2-7b",
+    "icon": "/qwen.svg",
+    "name": "Qwen2 7B",
+    "organization": "Alibaba",
+    "organization_icon": "",
+    "license": "Tongyi Qianwen"
+  }
+]

@@ -4,6 +4,7 @@
     "components",
     "context",
     "core",
+    "data",
     "docs",
     "hooks",
     "layout",
@@ -11,7 +12,7 @@
     "pages",
     "settings",
     "ui",
-    "utils",
+    "utils"
   ],
   // Force LF line endings
   "files.eol": "\n",
@@ -21,5 +22,5 @@
   // Prettier settings
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "prettier.printWidth": 140,
-  "prettier.semi": false,
+  "prettier.semi": false
 }

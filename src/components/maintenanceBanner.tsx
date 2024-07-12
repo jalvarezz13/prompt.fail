@@ -11,10 +11,7 @@ const MaintenanceBanner = () => {
           prompt.fail
         </h1>
       </Link>
-      <span className="text-lg text-center mt-6">
-        🛠️ <span className="font-semibold">promtp.fail</span> is currently down for maintenance 🚧
-      </span>
-      <span className="text-sm italic text-center mt-3 font-medium">Big things start small. Stay tuned! 🚀</span>
+      <span className="text-sm italic text-center mt-4 font-medium">Big things start small. Stay tuned! 🚀</span>
     </div>
   )
 }

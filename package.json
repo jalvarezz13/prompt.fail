@@ -10,7 +10,7 @@
     "clean": "rimraf node_modules && rimraf .next"
   },
   "dependencies": {
-    "@nextui-org/react": "^2.4.2",
+    "@nextui-org/react": "^2.4.6",
     "@supabase/ssr": "^0.4.0",
     "@supabase/supabase-js": "^2.44.3",
     "@tabler/icons-react": "^3.8.0",

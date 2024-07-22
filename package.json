@@ -15,7 +15,7 @@
     "@supabase/supabase-js": "^2.44.3",
     "@tabler/icons-react": "^3.8.0",
     "framer-motion": "^11.2.13",
-    "next": "^14.2.4",
+    "next": "^14.2.5",
     "next-themes": "^0.3.0",
     "react": "^18.3.1",
     "react-countup": "^6.5.3",

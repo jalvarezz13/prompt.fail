@@ -99,6 +99,15 @@
     "new": false
   },
   {
+    "id": "gpt-4o-mini",
+    "icon": "",
+    "name": "GPT-4o mini",
+    "organization": "OpenAI",
+    "organization_icon": "/open-ai.svg",
+    "license": "Proprietary",
+    "new": true
+  },
+  {
     "id": "grok-1",
     "icon": "/grok.svg",
     "name": "Grok-1",
@@ -213,7 +222,7 @@
     "organization": "Nvidia",
     "organization_icon": "/nvidia.svg",
     "license": "NVIDIA Open Model License",
-    "new": true
+    "new": false
   },
   {
     "id": "phi2-3b",

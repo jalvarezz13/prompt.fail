@@ -1,6 +1,8 @@
 import type { Metadata } from "next"
 import { Readex_Pro } from "next/font/google"
 
+import { Analytics } from "@vercel/analytics/react"
+
 import { Providers } from "./providers"
 import Footer from "@components/footer"
 import Header from "@components/header"
@@ -30,6 +32,7 @@ export default function RootLayout({
             <Footer />
           </div>
         </Providers>
+        <Analytics />
       </body>
     </html>
   )

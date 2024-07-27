@@ -136,6 +136,30 @@
     "license": "Llama 3 Community"
   },
   {
+    "id": "llama3_1-405b",
+    "icon": "",
+    "name": "Llama 3.1 405B",
+    "organization": "Meta",
+    "organization_icon": "/meta.svg",
+    "license": "Llama 3.1 Community"
+  },
+  {
+    "id": "llama3_1-70b",
+    "icon": "",
+    "name": "Llama 3.1 70B",
+    "organization": "Meta",
+    "organization_icon": "/meta.svg",
+    "license": "Llama 3.1 Community"
+  },
+  {
+    "id": "llama3_1-8b",
+    "icon": "",
+    "name": "Llama 3.1 8B",
+    "organization": "Meta",
+    "organization_icon": "/meta.svg",
+    "license": "Llama 3.1 Community"
+  },
+  {
     "id": "mistral-7b",
     "icon": "",
     "name": "Mistral 7B",
@@ -158,6 +182,14 @@
     "organization": "Mistral AI",
     "organization_icon": "/mistral-ai.svg",
     "license": "Apache 2.0"
+  },
+  {
+    "id": "nemotron-4-340b",
+    "icon": "",
+    "name": "Nemotron 4 340B",
+    "organization": "Nvidia",
+    "organization_icon": "/nvidia.svg",
+    "license": "NVIDIA Open Model License"
   },
   {
     "id": "phi2-3b",

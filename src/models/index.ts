@@ -5,6 +5,7 @@ export interface ILlm {
   organization: string
   organization_icon: string
   license: string
+  new: boolean
 }
 
 export interface IPrompt {

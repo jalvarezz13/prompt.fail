@@ -46,9 +46,16 @@ const LlmResultItem = ({ llmId, llmValue, promptId }: { llmId: string; llmValue:
         <img src={llmSelected.icon || llmSelected.organization_icon} alt={llmSelected.name} className="h-10 w-10 rounded-lg" />
         <div className="flex flex-col items-start">
           <span className="text-sm font-bold">{llmSelected.name}</span>
-          <Chip size="sm" variant="bordered" color={colorByValue[llmValue]} startContent={getIconByValue(llmValue)}>
-            {textByValue[llmValue]}
-          </Chip>
+          <div className="flex items-center gap-1">
+            <Chip size="sm" variant="bordered" color={colorByValue[llmValue]} startContent={getIconByValue(llmValue)}>
+              {textByValue[llmValue]}
+            </Chip>
+            {llmSelected.new && (
+              <Chip size="sm" variant="solid" color="success">
+                New
+              </Chip>
+            )}
+          </div>
         </div>
       </button>
       <LlmShareResultModal isOpen={isOpen} onOpenChange={onOpenChange} promptId={promptId} llm={llmSelected} />

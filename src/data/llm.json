@@ -5,7 +5,8 @@
     "name": "Claude 3 Haiku",
     "organization": "Anthropic",
     "organization_icon": "/claude-ai.svg",
-    "license": "Proprietary"
+    "license": "Proprietary",
+    "new": false
   },
   {
     "id": "claude-3-opus",
@@ -13,7 +14,8 @@
     "name": "Claude 3 Opus",
     "organization": "Anthropic",
     "organization_icon": "/claude-ai.svg",
-    "license": "Proprietary"
+    "license": "Proprietary",
+    "new": false
   },
   {
     "id": "claude-3-sonnet",
@@ -21,7 +23,8 @@
     "name": "Claude 3 Sonnet",
     "organization": "Anthropic",
     "organization_icon": "/claude-ai.svg",
-    "license": "Proprietary"
+    "license": "Proprietary",
+    "new": false
   },
   {
     "id": "gemini",
@@ -29,7 +32,8 @@
     "name": "Gemini",
     "organization": "Google",
     "organization_icon": "/google.svg",
-    "license": "Proprietary"
+    "license": "Proprietary",
+    "new": false
   },
   {
     "id": "gemini-advanced",
@@ -37,7 +41,8 @@
     "name": "Gemini Advanced",
     "organization": "Google",
     "organization_icon": "/google.svg",
-    "license": "Proprietary"
+    "license": "Proprietary",
+    "new": false
   },
   {
     "id": "gemma-2b",
@@ -45,7 +50,8 @@
     "name": "Gemma 2B",
     "organization": "Google",
     "organization_icon": "/google.svg",
-    "license": "Gemma license"
+    "license": "Gemma license",
+    "new": false
   },
   {
     "id": "gemma-7b",
@@ -53,7 +59,8 @@
     "name": "Gemma 7B",
     "organization": "Google",
     "organization_icon": "/google.svg",
-    "license": "Gemma license"
+    "license": "Gemma license",
+    "new": false
   },
   {
     "id": "gpt-3.5-turbo",
@@ -61,7 +68,8 @@
     "name": "GPT-3.5 Turbo",
     "organization": "OpenAI",
     "organization_icon": "/open-ai.svg",
-    "license": "Proprietary"
+    "license": "Proprietary",
+    "new": false
   },
   {
     "id": "gpt-4",
@@ -69,7 +77,8 @@
     "name": "GPT-4",
     "organization": "OpenAI",
     "organization_icon": "/open-ai.svg",
-    "license": "Proprietary"
+    "license": "Proprietary",
+    "new": false
   },
   {
     "id": "gpt-4-turbo",
@@ -77,7 +86,8 @@
     "name": "GPT-4 Turbo",
     "organization": "OpenAI",
     "organization_icon": "/open-ai.svg",
-    "license": "Proprietary"
+    "license": "Proprietary",
+    "new": false
   },
   {
     "id": "gpt-4o",
@@ -85,7 +95,8 @@
     "name": "GPT-4o",
     "organization": "OpenAI",
     "organization_icon": "/open-ai.svg",
-    "license": "Proprietary"
+    "license": "Proprietary",
+    "new": false
   },
   {
     "id": "grok-1",
@@ -93,7 +104,8 @@
     "name": "Grok-1",
     "organization": "xAI",
     "organization_icon": "/xai.svg",
-    "license": "Apache 2.0"
+    "license": "Apache 2.0",
+    "new": false
   },
   {
     "id": "llama2-13b",
@@ -101,7 +113,8 @@
     "name": "Llama 2 13B",
     "organization": "Meta",
     "organization_icon": "/meta.svg",
-    "license": "Llama 2 Community"
+    "license": "Llama 2 Community",
+    "new": false
   },
   {
     "id": "llama2-70b",
@@ -109,7 +122,8 @@
     "name": "Llama 2 70B",
     "organization": "Meta",
     "organization_icon": "/meta.svg",
-    "license": "Llama 2 Community"
+    "license": "Llama 2 Community",
+    "new": false
   },
   {
     "id": "llama2-7b",
@@ -117,7 +131,8 @@
     "name": "Llama 2 7B",
     "organization": "Meta",
     "organization_icon": "/meta.svg",
-    "license": "Llama 2 Community"
+    "license": "Llama 2 Community",
+    "new": false
   },
   {
     "id": "llama3-70b",
@@ -125,7 +140,8 @@
     "name": "Llama 3 70B",
     "organization": "Meta",
     "organization_icon": "/meta.svg",
-    "license": "Llama 3 Community"
+    "license": "Llama 3 Community",
+    "new": false
   },
   {
     "id": "llama3-8b",
@@ -133,7 +149,8 @@
     "name": "Llama 3 8B",
     "organization": "Meta",
     "organization_icon": "/meta.svg",
-    "license": "Llama 3 Community"
+    "license": "Llama 3 Community",
+    "new": false
   },
   {
     "id": "llama3_1-405b",
@@ -141,7 +158,8 @@
     "name": "Llama 3.1 405B",
     "organization": "Meta",
     "organization_icon": "/meta.svg",
-    "license": "Llama 3.1 Community"
+    "license": "Llama 3.1 Community",
+    "new": true
   },
   {
     "id": "llama3_1-70b",
@@ -149,7 +167,8 @@
     "name": "Llama 3.1 70B",
     "organization": "Meta",
     "organization_icon": "/meta.svg",
-    "license": "Llama 3.1 Community"
+    "license": "Llama 3.1 Community",
+    "new": true
   },
   {
     "id": "llama3_1-8b",
@@ -157,7 +176,8 @@
     "name": "Llama 3.1 8B",
     "organization": "Meta",
     "organization_icon": "/meta.svg",
-    "license": "Llama 3.1 Community"
+    "license": "Llama 3.1 Community",
+    "new": true
   },
   {
     "id": "mistral-7b",
@@ -165,7 +185,8 @@
     "name": "Mistral 7B",
     "organization": "Mistral AI",
     "organization_icon": "/mistral-ai.svg",
-    "license": "Apache 2.0"
+    "license": "Apache 2.0",
+    "new": false
   },
   {
     "id": "mixtral-8x22b",
@@ -173,7 +194,8 @@
     "name": "Mixtral 8x22B",
     "organization": "Mistral AI",
     "organization_icon": "/mistral-ai.svg",
-    "license": "Apache 2.0"
+    "license": "Apache 2.0",
+    "new": false
   },
   {
     "id": "mixtral-8x7b",
@@ -181,7 +203,8 @@
     "name": "Mixtral 8x7B",
     "organization": "Mistral AI",
     "organization_icon": "/mistral-ai.svg",
-    "license": "Apache 2.0"
+    "license": "Apache 2.0",
+    "new": false
   },
   {
     "id": "nemotron-4-340b",
@@ -189,7 +212,8 @@
     "name": "Nemotron 4 340B",
     "organization": "Nvidia",
     "organization_icon": "/nvidia.svg",
-    "license": "NVIDIA Open Model License"
+    "license": "NVIDIA Open Model License",
+    "new": true
   },
   {
     "id": "phi2-3b",
@@ -197,7 +221,8 @@
     "name": "Phi-2 3B",
     "organization": "Microsoft",
     "organization_icon": "/microsoft.svg",
-    "license": "MIT"
+    "license": "MIT",
+    "new": false
   },
   {
     "id": "phi3-14b",
@@ -205,7 +230,8 @@
     "name": "Phi-3 14B",
     "organization": "Microsoft",
     "organization_icon": "/microsoft.svg",
-    "license": "MIT"
+    "license": "MIT",
+    "new": false
   },
   {
     "id": "phi3-3b",
@@ -213,7 +239,8 @@
     "name": "Phi-3 3B",
     "organization": "Microsoft",
     "organization_icon": "/microsoft.svg",
-    "license": "MIT"
+    "license": "MIT",
+    "new": false
   },
   {
     "id": "qwen2-0.5b",
@@ -221,7 +248,8 @@
     "name": "Qwen2 0.5B",
     "organization": "Alibaba",
     "organization_icon": "",
-    "license": "Tongyi Qianwen"
+    "license": "Tongyi Qianwen",
+    "new": false
   },
   {
     "id": "qwen2-1.5b",
@@ -229,7 +257,8 @@
     "name": "Qwen2 1.5B",
     "organization": "Alibaba",
     "organization_icon": "",
-    "license": "Tongyi Qianwen"
+    "license": "Tongyi Qianwen",
+    "new": false
   },
   {
     "id": "qwen2-72b",
@@ -237,7 +266,8 @@
     "name": "Qwen2 72B",
     "organization": "Alibaba",
     "organization_icon": "",
-    "license": "Tongyi Qianwen"
+    "license": "Tongyi Qianwen",
+    "new": false
   },
   {
     "id": "qwen2-7b",
@@ -245,6 +275,7 @@
     "name": "Qwen2 7B",
     "organization": "Alibaba",
     "organization_icon": "",
-    "license": "Tongyi Qianwen"
+    "license": "Tongyi Qianwen",
+    "new": false
   }
 ]

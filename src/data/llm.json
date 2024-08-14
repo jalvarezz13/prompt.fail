@@ -105,7 +105,7 @@
     "organization": "OpenAI",
     "organization_icon": "/open-ai.svg",
     "license": "Proprietary",
-    "new": true
+    "new": false
   },
   {
     "id": "grok-1",
@@ -115,6 +115,24 @@
     "organization_icon": "/xai.svg",
     "license": "Apache 2.0",
     "new": false
+  },
+  {
+    "id": "grok-2",
+    "icon": "/grok.svg",
+    "name": "Grok-2",
+    "organization": "xAI",
+    "organization_icon": "/xai.svg",
+    "license": "Apache 2.0",
+    "new": true
+  },
+  {
+    "id": "grok-2-mini",
+    "icon": "/grok.svg",
+    "name": "Grok-2 mini",
+    "organization": "xAI",
+    "organization_icon": "/xai.svg",
+    "license": "Apache 2.0",
+    "new": true
   },
   {
     "id": "llama2-13b",
@@ -168,7 +186,7 @@
     "organization": "Meta",
     "organization_icon": "/meta.svg",
     "license": "Llama 3.1 Community",
-    "new": true
+    "new": false
   },
   {
     "id": "llama3_1-70b",
@@ -177,7 +195,7 @@
     "organization": "Meta",
     "organization_icon": "/meta.svg",
     "license": "Llama 3.1 Community",
-    "new": true
+    "new": false
   },
   {
     "id": "llama3_1-8b",
@@ -186,7 +204,7 @@
     "organization": "Meta",
     "organization_icon": "/meta.svg",
     "license": "Llama 3.1 Community",
-    "new": true
+    "new": false
   },
   {
     "id": "mistral-7b",

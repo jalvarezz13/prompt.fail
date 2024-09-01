@@ -5,6 +5,7 @@
     "context",
     "core",
     "data",
+    "deps",
     "docs",
     "hooks",
     "layout",

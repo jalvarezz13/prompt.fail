@@ -33,7 +33,7 @@
     "organization": "Anthropic",
     "organization_icon": "/claude-ai.svg",
     "license": "Proprietary",
-    "new": true
+    "new": false
   },
   {
     "id": "gemini",
@@ -60,7 +60,7 @@
     "organization": "Google",
     "organization_icon": "/google.svg",
     "license": "Gemma license",
-    "new": true
+    "new": false
   },
   {
     "id": "gemma2-2b",
@@ -69,7 +69,7 @@
     "organization": "Google",
     "organization_icon": "/google.svg",
     "license": "Gemma license",
-    "new": true
+    "new": false
   },
   {
     "id": "gemma2-9b",
@@ -78,7 +78,7 @@
     "organization": "Google",
     "organization_icon": "/google.svg",
     "license": "Gemma license",
-    "new": true
+    "new": false
   },
   {
     "id": "gpt-4o",
@@ -150,7 +150,7 @@
     "organization": "Meta",
     "organization_icon": "/meta.svg",
     "license": "Llama 3.2 Community",
-    "new": true
+    "new": false
   },
   {
     "id": "llama3_2-1b",
@@ -159,7 +159,7 @@
     "organization": "Meta",
     "organization_icon": "/meta.svg",
     "license": "Llama 3.2 Community",
-    "new": true
+    "new": false
   },
   {
     "id": "llama3_2-3b",
@@ -168,7 +168,7 @@
     "organization": "Meta",
     "organization_icon": "/meta.svg",
     "license": "Llama 3.2 Community",
-    "new": true
+    "new": false
   },
   {
     "id": "llama3_2-90b",
@@ -177,7 +177,7 @@
     "organization": "Meta",
     "organization_icon": "/meta.svg",
     "license": "Llama 3.2 Community",
-    "new": true
+    "new": false
   },
   {
     "id": "mistral-7b",
@@ -222,7 +222,7 @@
     "organization": "Nvidia",
     "organization_icon": "/nvidia.svg",
     "license": "NVIDIA Open Model License",
-    "new": true
+    "new": false
   },
   {
     "id": "openai-o1",
@@ -231,7 +231,7 @@
     "organization": "OpenAI",
     "organization_icon": "/open-ai.svg",
     "license": "Proprietary",
-    "new": true
+    "new": false
   },
   {
     "id": "openai-o1-mini",
@@ -240,7 +240,7 @@
     "organization": "OpenAI",
     "organization_icon": "/open-ai.svg",
     "license": "Proprietary",
-    "new": true
+    "new": false
   },
   {
     "id": "phi3.5-mini",
@@ -249,7 +249,7 @@
     "organization": "Microsoft",
     "organization_icon": "/microsoft.svg",
     "license": "MIT",
-    "new": true
+    "new": false
   },
   {
     "id": "phi3.5-moe",
@@ -267,7 +267,7 @@
     "organization": "Alibaba",
     "organization_icon": "",
     "license": "Tongyi Qianwen",
-    "new": true
+    "new": false
   },
   {
     "id": "qwen2.5-1.5b",
@@ -276,7 +276,7 @@
     "organization": "Alibaba",
     "organization_icon": "",
     "license": "Tongyi Qianwen",
-    "new": true
+    "new": false
   },
   {
     "id": "qwen2.5-14b",
@@ -285,7 +285,7 @@
     "organization": "Alibaba",
     "organization_icon": "",
     "license": "Tongyi Qianwen",
-    "new": true
+    "new": false
   },
   {
     "id": "qwen2.5-32b",
@@ -294,7 +294,7 @@
     "organization": "Alibaba",
     "organization_icon": "",
     "license": "Tongyi Qianwen",
-    "new": true
+    "new": false
   },
   {
     "id": "qwen2.5-3b",
@@ -303,7 +303,7 @@
     "organization": "Alibaba",
     "organization_icon": "",
     "license": "Tongyi Qianwen",
-    "new": true
+    "new": false
   },
   {
     "id": "qwen2.5-72b",
@@ -312,7 +312,7 @@
     "organization": "Alibaba",
     "organization_icon": "",
     "license": "Tongyi Qianwen",
-    "new": true
+    "new": false
   },
   {
     "id": "qwen2.5-7b",
@@ -321,6 +321,6 @@
     "organization": "Alibaba",
     "organization_icon": "",
     "license": "Tongyi Qianwen",
-    "new": true
+    "new": false
   }
 ]

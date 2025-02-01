@@ -3,7 +3,7 @@
 import { useState } from "react"
 
 import { useTheme } from "next-themes"
-import { Link, Button, Tooltip, Textarea } from "@nextui-org/react"
+import { Link, Button, Tooltip, Textarea } from "@heroui/react"
 import { IconArrowsShuffle, IconCopy, IconCopyCheck } from "@tabler/icons-react"
 
 import { IPrompt } from "@models/index"

@@ -8,12 +8,12 @@ export default function Credits() {
         <ul className="list-disc md:list-inside">
           <li>
             <a
-              href="https://github.com/nextui-org/nextui"
+              href="https://github.com/heroui-org/heroui"
               className="text-blue-500 hover:underline"
               target="_blank"
               rel="noopener noreferrer"
             >
-              @nextui-org/react
+              @heroui/react
             </a>
             : A modern and customizable React UI library.
           </li>

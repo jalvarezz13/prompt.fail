@@ -1,4 +1,4 @@
-import { Chip, useDisclosure } from "@nextui-org/react"
+import { Chip, useDisclosure } from "@heroui/react"
 import { IconCircleDashedCheck, IconCircleDashedX, IconCircleDashed } from "@tabler/icons-react"
 
 import llms from "@data/llm.json"

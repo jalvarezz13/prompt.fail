@@ -3,7 +3,7 @@
 import { useState } from "react"
 
 import { IconCircleDashedCheck, IconCircleDashedX } from "@tabler/icons-react"
-import { Modal, ModalContent, ModalHeader, ModalBody, ModalFooter, Chip, Button } from "@nextui-org/react"
+import { Modal, ModalContent, ModalHeader, ModalBody, ModalFooter, Chip, Button } from "@heroui/react"
 
 import { IPrompt, ILlm } from "@/models"
 import { createClient } from "@/utils/supabase/client"

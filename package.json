@@ -10,26 +10,27 @@
     "clean": "rimraf node_modules && rimraf .next"
   },
   "dependencies": {
-    "@heroui/react": "2.6.14",
-    "@supabase/ssr": "^0.5.2",
-    "@supabase/supabase-js": "^2.48.1",
-    "@tabler/icons-react": "^3.29.0",
-    "@vercel/analytics": "^1.4.1",
-    "framer-motion": "^12.0.6",
-    "next": "^15.1.6",
-    "next-themes": "^0.4.4",
-    "react": "^19.0.0",
+    "@heroui/react": "2.8.4",
+    "@supabase/ssr": "^0.7.0",
+    "@supabase/supabase-js": "^2.58.0",
+    "@tabler/icons-react": "^3.35.0",
+    "@vercel/analytics": "^1.5.0",
+    "framer-motion": "^12.23.22",
+    "next": "^15.5.4",
+    "next-themes": "^0.4.6",
+    "react": "^19.1.1",
     "react-countup": "^6.5.3",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
-    "@types/node": "^22.13.0",
-    "@types/react": "^19.0.8",
-    "@types/react-dom": "^19.0.3",
-    "eslint": "^9.19.0",
-    "eslint-config-next": "^15.1.6",
-    "postcss": "^8.5.1",
-    "tailwindcss": "^3.4.17",
-    "typescript": "^5.7.3"
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^24.6.0",
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "eslint": "^9.36.0",
+    "eslint-config-next": "^15.5.4",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.13",
+    "typescript": "^5.9.2"
   }
 }

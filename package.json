@@ -13,7 +13,7 @@
     "@heroui/react": "2.8.5",
     "@supabase/ssr": "^0.8.0",
     "@supabase/supabase-js": "^2.86.2",
-    "@tabler/icons-react": "^3.35.0",
+    "@tabler/icons-react": "^3.36.0",
     "@vercel/analytics": "^1.6.1",
     "framer-motion": "^12.23.25",
     "next": "^16.0.7",

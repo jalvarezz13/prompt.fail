@@ -10,7 +10,7 @@
     "clean": "rimraf node_modules && rimraf .next"
   },
   "dependencies": {
-    "@heroui/react": "2.8.5",
+    "@heroui/react": "2.8.7",
     "@supabase/ssr": "^0.8.0",
     "@supabase/supabase-js": "^2.86.2",
     "@tabler/icons-react": "^3.35.0",
